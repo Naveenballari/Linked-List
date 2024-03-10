@@ -1,3 +1,3 @@
 # Linked-List in C
-Repository for Linked list implementation 
+Linked list implementation in C Language
 
