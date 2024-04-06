@@ -14,6 +14,18 @@ A singly linked list is a linear data structure in which the elements are not st
 ### functionalities
 |Sl.no|Function|Description|
 |-----|--------|-----------|
+|01|traversal|Displays the list|
+|02|add_at_end|Function to insert a node at the end of list|
+|03|add_at_begin|Function to insert a node at the beginning of list using First method: Pass by value|
+|04|add_beg|Function to insert a node at the beginning of list using Second mmethod: Pass by referrence|
+|06|add_at_pos|Function to insert node at specific position|
+|07|del_first| Function to Delete first node|
+|08|del_last_single_ptr|Function to Delete Last node using single pointer|
+|09|delete_at_pos|Function to Delete a node at position|
+|18|delete_list|Function to Delete complete list|
+|11|reverse_list|Function to reverse list|
+|12|insert_into_sorted_list|Function to insert a node into a sorted list|
+
 
 ## Doubly Linked List
 A doubly linked list is a special type of linked list in which each node contains a pointer to the previous node as well as the next node in the structure.<br>
